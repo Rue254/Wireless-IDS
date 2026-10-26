@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.log
+blocklist*.txt
+offenders.csv
+demo*.pcap
